@@ -1,0 +1,10 @@
+name: TutorialGUI
+version: ${project.version}
+main: xyz.namekun.tutorialgui.TutorialGUI
+api-version: 1.17
+
+commands:
+  tutorialgui:
+    usage: unko
+    description: unko
+    permission: tutorialgui
